@@ -2,8 +2,7 @@
 
 ## Table of Contents
 
-* [Description] (#description)
-
+* [Description] 
 ## Description
 
 This was a project that I created which is part of the course "The Complete Python Course | Learn Python by Doing(https://www.udemy.com/the-complete-python-course/learn/v4/overview).
